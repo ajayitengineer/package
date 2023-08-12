@@ -1,0 +1,22 @@
+{
+  "name": "square",
+  "version": "1.0.0",
+  "description": "this is test package for square",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajayitengineer/package.git"
+  },
+  "keywords": [
+    "square"
+  ],
+  "author": "ajay bhatt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajayitengineer/package/issues"
+  },
+  "homepage": "https://github.com/ajayitengineer/package#readme"
+}
