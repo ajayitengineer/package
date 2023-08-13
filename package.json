@@ -1,5 +1,5 @@
 {
-  "name": "square",
+  "name": "thisistestsquare",
   "version": "1.0.0",
   "description": "this is test package for square",
   "main": "index.js",
@@ -11,9 +11,9 @@
     "url": "git+https://github.com/ajayitengineer/package.git"
   },
   "keywords": [
-    "square"
+    "thisistestsquare"
   ],
-  "author": "ajay bhatt",
+  "author": "ajaybhatt",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/ajayitengineer/package/issues"
